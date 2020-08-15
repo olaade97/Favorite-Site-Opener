@@ -13,6 +13,7 @@ else:
     website = pyperclip.paste()
     webbrowser.open(website)
     
+#Opens the following links in your browswer
 webbrowser.open('https://www.reddit.com/r/frugalmalefashion/')
 webbrowser.open('https://www.reddit.com/r/consoledeals/')
 webbrowser.open('https://www.reddit.com/r/SneakerDeals/')
